@@ -1,0 +1,55 @@
+PeachFlow Public License v1.0
+
+No copyright is claimed over this software, its name, or any associated assets.
+PeachFlow is fully open and belongs to everyone.
+
+PERMISSIONS
+You are free to use, copy, modify, and distribute this software for any purpose,
+provided the following conditions are met.
+
+CONDITIONS
+
+1. COPYLEFT
+Any modified version or derivative work must be distributed under this same
+license, with full source code made publicly available.
+
+2. ATTRIBUTION
+All copies and derivatives must retain this license and the following notice:
+"Traffic camera data provided by Georgia 511 (511ga.org), operated by the
+Georgia Department of Transportation. Use of this data is subject to 511GA's
+terms of service."
+
+3. NO DATA HOARDING
+This software and any derivative may not store, log, archive, or redistribute
+511GA camera feeds, snapshots, or metadata beyond what is necessary for
+real-time display. Camera data must be fetched live and never persisted to a
+database or third-party server.
+
+4. ZERO LOGS PROMISE
+This software does not and must not log, track, or transmit user activity, API
+keys, search queries, or any personally identifiable information. Any derivative
+must uphold this guarantee and clearly state it in their documentation.
+
+5. NON-COMMERCIAL DATA USE
+The 511GA data accessed through this software may not be used for commercial
+purposes. This restriction applies to all derivatives.
+
+6. API KEY RESPONSIBILITY
+This software does not include an API key. If you distribute a copy or
+derivative of this software, you must not embed or share your own 511GA API key
+in the distributed code. Each person who receives your distribution is
+responsible for obtaining their own free API key from 511ga.org/developers/doc
+and complying with 511GA's terms of service independently.
+
+7. ZERO RESPONSIBILITY
+No individual, group, community, or entity — including anyone who has
+contributed to, distributed, or used this software — bears any responsibility
+for its use, misuse, or consequences. The name PeachFlow is unclaimed and
+unowned. Responsibility for misuse lies with nobody. No party can be held liable
+for any damages, direct or indirect, arising from the use of this software.
+Misuse is solely the burden of the person committing it.
+
+DISCLAIMER
+This software is provided "as is", without warranty of any kind, express or
+implied. PeachFlow is not affiliated with, endorsed by, or connected to Georgia
+DOT, 511GA, or the Georgia Department of Transportation in any way.
