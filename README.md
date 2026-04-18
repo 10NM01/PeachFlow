@@ -5,3 +5,5 @@ Real-time traffic conditions from Georgia's live CCTV network. Monitor road cond
 04/04/26 12:50pm GMT Eastern Daylight Time (EDT) UTC -04:00 - Awaiting API approval from https://511ga.org/developers/doc 
 
 04/08/26 12:08pm GMT Eastern Daylight Time (EDT) UTC -04:00 - Project developer API *approved* by 511ga 
+
+04/17/26 20:00/8:00pm GMT Eastern Daylight Time (EDT) UTC -04:00 - Development Scheduled for June 2026 - July 2026
